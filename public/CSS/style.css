@@ -1,0 +1,27 @@
+
+
+.post{
+    width: 400px;
+    height: 400px;
+    background-color: antiquewhite;
+}
+
+h1{
+    color: maroon;
+}
+header{
+    background-color: aqua;
+}
+header div{
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+a{
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
